@@ -1,0 +1,76 @@
+<application>
+  <component name="AppInspectionProfilesVisibleTreeState">
+    <entry key="Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>BashSupport</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="CvsApplicationLevelConfiguration">
+    <option name="PATH_TO_PASSWORD_FILE" value="$userdir/.cvspass" />
+  </component>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="D:/Program Files/nodejs/node.exe" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="CUSTOMIZE_ACTIONS" value="git&#10;svn" />
+    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.8361244" />
+    <property name="CommitChangeListDialog.SPLITTER_PROPORTION_2" value="0.7940252" />
+    <property name="CommittedChanges.SplitterProportions.0" value="700" />
+    <property name="CommittedChanges.SplitterProportions.1" value="500" />
+    <property name="Copy.OpenInEditor" value="false" />
+    <property name="DiffRequestProcessor.BottomComponentSplitter" value="0.7830189" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="ExpandRunDashboardTypesPanel" value="false" />
+    <property name="FileTemplates.SelectedTemplate" value="HTML File" />
+    <property name="InstalledPluginsSearchHistory" value="Diagrams" />
+    <property name="PhpStorm.InitialConfiguration" value="true" />
+    <property name="SettingsSearchHistory" value="web&#10;key&#10;Tab,Indent&#10;php&#10;deploy" />
+    <property name="SqlStructureView.filterD.file.structure.state" value="true" />
+    <property name="TrendingPluginsSearchHistory" value="Translation&#10;disgrams&#10;dia" />
+    <property name="Vcs.Log.Text.Filter.History" value="毒&#10;退款&#10;钉钉&#10;进度&#10;图片" />
+    <property name="cn.yiiguxing.plugin.translate.version" value="2.7.3" />
+    <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.0" value="300" />
+    <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.1" value="783" />
+    <property name="delete.locally.added.files" value="true" />
+    <property name="dir.diff.space.button.info" value="3" />
+    <property name="evlsprt.183" value="169addc05c2" />
+    <property name="evlsprt2.183" value="16f66852de5" />
+    <property name="evlsprt3.183" value="16" />
+    <property name="export.settings.marked" value="codestyles|databaseDrivers.xml|debugger.xml|filetypes.xml|find.xml|inspection|keymap.xml|keymaps|laf.xml|php.xml|baseRefactoring.xml|ide.general.xml|webServers.xml|editor.xml|" />
+    <property name="file.chooser.recent.files" value="E:/web/trade-symfony - 副本&#10;C:/Users/buyingfei/Desktop/hupu/settings.jar&#10;E:/onedrive/qwadmin&#10;E:/vagrant/centos7/Vagrantfile&#10;Z:/&#10;E:/web/shihuo_v36_1&#10;E:/web/trade-symfony&#10;E:/web/shihuo_v36_2&#10;E:/web/shihuo_v36&#10;C:/Users/buyingfei/Desktop/quest/quest/frontend&#10;E:/onedrive/coding/pipe-frontend&#10;E:/onedrive/coding/vhr/vuehr&#10;E:/onedrive/coding/vue-share/vue-share&#10;E:/onedrive/coding/vue-share&#10;E:/web/aliyun&#10;E:/web/WL_ShiHuo_Server&#10;E:/web/theyaoapp-backend&#10;E:/onedrive/coding&#10;E:/onedrive/hupu/识货/shihuo_v36&#10;C:/Users/buyingfei/AppData/Roaming/npm/node_modules/jscs&#10;E:/web/vue-share&#10;E:/web/vue-admin-template&#10;E:/web/pipe-frontend&#10;E:/web/erp-simulator&#10;E:/web/frontend&#10;C:/Users/buyingfei/Desktop/clouderp(1) - 副本.yml&#10;C:/Users/buyingfei/Desktop/clouderp(1).yml&#10;E:/Program Files/Git/bin/git.exe" />
+    <property name="file.gist.reindex.count" value="278230" />
+    <property name="fileTypeChangedCounter" value="2" />
+    <property name="find.popup.splitter" value="0.56352764" />
+    <property name="js.chrome.debugger.port.98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" value="64766" />
+    <property name="settings.code.style.selected.tab.PHP" value="Tabs and Indents" />
+    <property name="ts.lib.d.ts.version" value="3.2.1" />
+    <property name="vcs.history.diff.splitter.proportion" value="0.2835821" />
+    <property name="vcs.log.changes.splitter.proportion" value="0.5229211" />
+    <property name="webDeployment.deleteServersSilently" value="true" />
+  </component>
+  <component name="SvnApplicationSettings">
+    <option name="myCheckoutURLs">
+      <list>
+        <option value="http://192.168.8.245/usvn/svn/WL_ShiHuo_Server/branches/shihuo_v36" />
+        <option value="svn://svn.songheng.shgaoxin.net:3699/toutiao" />
+      </list>
+    </option>
+    <option name="myTypedURLs">
+      <list>
+        <option value="http://192.168.8.245/usvn/svn/WL_ShiHuo_Server/branches/shihuo_v36" />
+        <option value="svn://svn.songheng.shgaoxin.net:3699/toutiao" />
+      </list>
+    </option>
+    <option name="mySvnCommandLine" value="C:\Program Files\TortoiseSVN\bin\svn.exe" />
+  </component>
+</application>
